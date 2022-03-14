@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gatitos</title>
+    <h1></h1>
+    
+
+<h2 align= "center" >lindos</h2>
+
+
+<h3>Encabezado de nivel 3</h3>
+
+<h4>Encabezado de nivel 4</h4>
+
+<h5>Encabezado de nivel 5</h5>
+
+<h6>Encabezado de nivel 6</h6>
+<body>
+    <p><b>gatitos del mundo</b></p>
+    <br>
+    <br>
+    <br>
+  <p>gatitos lindos</p>
+  <p align="left">Texto alineado a la izquierda</p>
+  <p align="center">Texto alineado al centro</p>
+  <p align="right">Texto alineado a la derecha</p>
+  <div align="right">
+    <p>Parrafo1</p>
+
+    <p>Parrafo2</p>
+    
+    <p>Parrafo3</p>
+    
+    </div>
+    <div align="center">
+
+        <p>Parrafo1</p>
+        
+        <p>Parrafo2</p>
+        
+        <p>Parrafo3</p>
+        
+        </div>
+        <img src="https://naturally-fresh.web.app/images/wraps/1.jpg" alt="wraps"  width="100" height="250">
+
+
+
+<a href="#abajo"> ir abajo</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h1><a name="abajo">fondo</a></h1>
+
+
+</body>
+
+
+
+</html>
